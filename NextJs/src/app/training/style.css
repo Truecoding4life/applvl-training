@@ -1,0 +1,10 @@
+.training{
+    background-color: rgb(45, 45, 46);
+    height: 100%;
+}
+
+.training-header{
+    padding-top: 10%;
+    padding-left: 40%;
+    color: #f0f8ff;
+}
