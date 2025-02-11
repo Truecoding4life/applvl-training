@@ -1,10 +1,21 @@
 .training{
-    background-color: rgb(45, 45, 46);
+    background-color: rgb(41, 41, 42);
     height: 100%;
 }
 
 .training-header{
-    padding-top: 10%;
-    padding-left: 40%;
     color: #f0f8ff;
+}
+.training-subheader{
+    color: #babbbb;
+}
+.training-content{
+    padding: 10%;
+
+}
+
+.course-selection{
+    background-color: rgb(68, 68, 68);
+    border: none;
+    color: white;
 }
